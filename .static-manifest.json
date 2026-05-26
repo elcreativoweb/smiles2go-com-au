@@ -1,0 +1,16 @@
+{
+    "domain": "smiles2go.com.au",
+    "base_url": "https:\/\/smiles2go.com.au",
+    "pages": 5,
+    "assets": 3,
+    "total_files": 8,
+    "total_size_mb": 0.35,
+    "output_dir": "\/tmp\/static-export\/smiles2go.com.au",
+    "pages_failed": [
+        "https:\/\/smiles2go.com.au\/comments\/feed\/",
+        "https:\/\/smiles2go.com.au\/feed\/",
+        "https:\/\/smiles2go.com.au\/wp-sitemap.xml"
+    ],
+    "assets_failed": [],
+    "generated_at": "2026-05-21 16:20:02"
+}
